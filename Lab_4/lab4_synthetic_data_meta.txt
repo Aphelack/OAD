@@ -1,0 +1,1 @@
+Synthetic dataset for Lab 4. The strongest partial correlation should be for x3, so the lab can select x3 for the pair linear regression.
